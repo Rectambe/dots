@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=KIDS
+Comment=KIDS allows you to move with and against crowds until everyone is gone
+Icon=/home/rectambe/.icons/kids-icon.png
+Exec=/home/rectambe/Games/itch.io/Kids/Kids
+Actions=
+Categories=Game;

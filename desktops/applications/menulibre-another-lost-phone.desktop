@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Another Lost Phone
+Comment=A game about exploring the social life of a young woman whose phone you have just found.
+Icon=/home/rectambe/.icons/anotherLostPhone.png
+Exec="/home/rectambe/Games/itch.io/Visual Novels/Another Lost Phone/alp.x86_64"
+Actions=
+Categories=menulibre-visual-novels;

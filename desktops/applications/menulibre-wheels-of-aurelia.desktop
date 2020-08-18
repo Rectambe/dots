@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Wheels of Aurelia
+Comment=Embark on an immersive road trip through the gritty western coast of Italy during the roaring 1970's
+Icon=/home/rectambe/.icons/wheelsOfAurelia.png
+Exec="/home/rectambe/Games/itch.io/Wheels of Aurelia/woa.x86"
+Actions=
+Categories=Game;

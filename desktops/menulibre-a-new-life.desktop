@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=A New Life
+Comment=A slice-of-life, bittersweet visual novel about connection and letting go.
+Icon=/home/rectambe/.icons/aNewLife.png
+Exec="/home/rectambe/Games/itch.io/Visual Novels/A New Life/a new life.x86_64"
+Actions=
+Categories=menulibre-visual-novels;
