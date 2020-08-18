@@ -17,10 +17,10 @@ cp $HOME/.zshrc ./home
 cp -r $HOME/.config/kitty .
 
 # copy custom icons
-cp -r $HOME/.icons ./icons
+cp -r $HOME/.icons .
 
 # copy custom .desktop files
-cp -r $HOME/.local/share/applications ./desktops
+cp -r $HOME/.local/share/applications .
 
 # Check git status
 gs="$(git status | grep -i "modified")"
