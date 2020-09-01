@@ -2,7 +2,8 @@
 Version=1.1
 Type=Application
 Name=A Short Hike
-Comment=A small descriptive blurb about this application.
+Comment=Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park
 Icon=/home/rectambe/.icons/shorthikeBirb.png
+Exec="/home/rectambe/Games/itch.io/A Short Hike/AShortHike.x86_64"
 Actions=
 Categories=Game;

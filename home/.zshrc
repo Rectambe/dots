@@ -105,6 +105,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias cls=clear
+alias upd="sudo apt update && sudo apt upgrade"
+alias please=sudo
 # Created by `userpath` on 2020-08-08 23:21:05
 export PATH="$PATH:/home/rectambe/.local/bin"
 
