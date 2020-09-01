@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Pikuniku
+Comment=An absurdly wonderful puzzle-exploration game that takes place in a strange but playful world
+Icon=/home/rectambe/.icons/pikuniku.png
+Exec=/home/rectambe/Games/itch.io/Pikuniku/Pikuniku.x86_64
+Actions=
+Categories=Game;
