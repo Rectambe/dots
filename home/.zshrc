@@ -9,7 +9,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/rectambe/.oh-my-zsh"
+export ZSH="/home/kateulator/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -108,7 +108,7 @@ alias cls=clear
 alias upd="sudo apt update && sudo apt upgrade"
 alias please=sudo
 # Created by `userpath` on 2020-08-08 23:21:05
-export PATH="$PATH:/home/rectambe/.local/bin"
+export PATH="$PATH:/home/kateulator/.local/bin"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
